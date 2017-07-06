@@ -18,9 +18,9 @@ class Social_Network_Widget extends WP_Widget {
             'twitter',
             'linkedin',
             'viadeo',
+            'facebook',
             'youtube',
             'newsletter',
-            'flux RSS',
             'google play',
             'app store'
         );
